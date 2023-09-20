@@ -61,7 +61,7 @@ func main() {
 		}
 
 		if err != nil {
-			fmt.Printf("Failed to write memory: %v\n", err)
+			fmt.Println(err)
 		} else {
 			fmt.Printf("Wrote %d bytes to 0x%x\n", n, args.Write)
 		}
