@@ -1,0 +1,4 @@
+github.com/akamensky/argparse v1.4.0 h1:YGzvsTqCvbEZhL8zZu2AiA5nq805NZh75JNj4ajn1xc=
+github.com/akamensky/argparse v1.4.0/go.mod h1:S5kwC7IuDcEr5VeXtGPRVZ5o/FdhcMlQz4IZQuw64xA=
+github.com/hjr265/ptrace.go v0.0.0-20140520045833-9bdb8bf074db h1:4CYhLJ8eN4m0dePCT+X99dpQ07cSJGyIm82mjdrkfFo=
+github.com/hjr265/ptrace.go v0.0.0-20140520045833-9bdb8bf074db/go.mod h1:+4j6glfA0InJ9SIRd9xE9WFNaEzfIKqUEANNjK5KBk0=
