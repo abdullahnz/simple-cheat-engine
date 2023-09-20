@@ -67,6 +67,11 @@ func (c *Core) WriteBytes(address, value, bit uint64) (int, error) {
 		n   int
 		err error
 	)
+
+	if bit <= 0 {
+		bit = constants.DEFAULT_WRITE_BIT
+	}
+
 	switch {
 	case bit == 64:
 		n, err = memory.New(c.Pid).Write64(address, value)

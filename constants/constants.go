@@ -7,4 +7,5 @@ const (
 	NEWLINE           = "\n"
 	LINE_SIZE         = 3
 	DEFAULT_READ_SIZE = 8
+	DEFAULT_WRITE_BIT = 64
 )
