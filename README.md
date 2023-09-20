@@ -1,6 +1,6 @@
 # Simple Cheat Engine
 
-Just a simple cheat engine written by golang
+Just a simple cheat engine for linux written by golang.
 
 ## Installation
 
